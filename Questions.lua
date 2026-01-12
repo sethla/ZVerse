@@ -233,12 +233,12 @@ Questions.Easy = {
 	},
 	{
 		Question = "What is the boiling point of water in Celsius?",
-		AcceptableAnswers = { "100", "one hundred", "100°c", "100 c" },
+		AcceptableAnswers = { "100", "one hundred", "100Â°c", "100 c" },
 		TimeLimit = 10,
 	},
 	{
 		Question = "What is the freezing point of water in Celsius?",
-		AcceptableAnswers = { "0", "zero", "0°c", "0 c" },
+		AcceptableAnswers = { "0", "zero", "0Â°c", "0 c" },
 		TimeLimit = 10,
 	},
 	{
@@ -396,7 +396,7 @@ Questions.Average = {
 			"three hundred million",
 			"3 x 10^8",
 			"3 * 10^8",
-			"3·10^8",
+			"3Â·10^8",
 		},
 		TimeLimit = 15,
 	},
@@ -655,7 +655,7 @@ Questions.Master = {
 		TimeLimit = 18,
 	},
 	{
-		Question = "What is the approximate value of Planck's constant in J·s (scientific notation)?",
+		Question = "What is the approximate value of Planck's constant in JÂ·s (scientific notation)?",
 		AcceptableAnswers = {
 			"6.63e-34",
 			"6.626e-34",
@@ -785,7 +785,7 @@ Questions.How = {
 		AcceptableAnswers = {
 			"6.022e23",
 			"6.022 x 10^23",
-			"6.022×10^23",
+			"6.022Ã—10^23",
 			"6.02214076e23",
 			"6.02214076 x 10^23",
 		},
